@@ -7,4 +7,4 @@ RUN apk add wget
 RUN apk add curl
 RUN apk add samba-client
 
-CMD ["sh"]
+CMD ["bash"]
